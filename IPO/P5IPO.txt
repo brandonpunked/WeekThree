@@ -1,0 +1,10 @@
+Input:
+- Fixed costs
+- Price per unit
+- Cost per unit
+
+Process:
+- Compute break even = fixed costs / (price per unit - cost per unit)
+
+Output:
+- Display break even point (units to sell)

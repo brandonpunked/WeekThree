@@ -1,0 +1,9 @@
+Input:
+- Meal total
+
+Process:
+- Compute tip = total * 0.15
+- Compute total with tip = total + tip
+
+Output:
+- Display meal total, tip, and total with tip

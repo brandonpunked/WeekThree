@@ -1,0 +1,9 @@
+Input:
+- Current stock price
+- Quantity of stock
+
+Process:
+- Compute value = price * quantity
+
+Output:
+- Display current portfolio value

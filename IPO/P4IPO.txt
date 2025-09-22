@@ -1,0 +1,9 @@
+Input:
+- Purchase price of stock
+- Current price of stock
+
+Process:
+- Compute percent change = ((current - purchase) / purchase) * 100
+
+Output:
+- Display percent increase or decrease

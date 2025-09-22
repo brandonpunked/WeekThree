@@ -1,0 +1,11 @@
+Input:
+- Exam 1 score
+- Exam 2 score
+
+Process:
+- Multiply exam 1 score by 0.6
+- Multiply exam 2 score by 0.4
+- Add both results for total score
+
+Output:
+- Display total score
